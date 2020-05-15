@@ -1,0 +1,6 @@
+framework module Pods_IGListRxSwift_IGListRxSwiftUITests {
+  umbrella header "Pods-IGListRxSwift-IGListRxSwiftUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
